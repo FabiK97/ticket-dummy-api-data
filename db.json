@@ -1,0 +1,7 @@
+{
+  "solutions": [
+    { "id": 1, "content": "Post 1", "category": "IT Support" },
+    { "id": 2, "content": "Post 2", "category": "IT Support" },
+    { "id": 3, "content": "Post 3", "category": "IT Support" }
+  ]
+}
